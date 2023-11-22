@@ -79,11 +79,11 @@ python script.py \
 }
 ```
 
-
-
-
-
-
 ## Polygon Zone
 
 https://roboflow.github.io/polygonzone/
+
+
+## PyTorch
+
+https://pytorch.org/get-started/locally/
